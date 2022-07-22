@@ -1,0 +1,24 @@
+* {
+  font-family: "Arial";
+}
+
+.wrapper {
+  margin: auto;
+  width: 800px;
+  border: 1px solid #cccccc;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  color: #000;
+}
+
+#myInput {
+  width: 400px;
+  height: 35px;
+  font-size: 14px;
+}
+
+.btn {
+  width: 35px;
+  height: 35px;
+}
